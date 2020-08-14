@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Henry Hu](mailto:henry.hu@owasp.org)
+* [Yi-Lang Tsai](mailto:yilang.tsai@owasp.org)
