@@ -27,6 +27,22 @@ Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yil
 ### 2017
 7-11 OWASP Taiwan Day 2017
 
+## Current Translation Projects
+
+### OWASP MASVS Traditional Chinese Version
+
+https://github.com/OWASP/owasp-masvs/tree/master/Document-zhtw
+
+### OWASP MSTG Traditional Chinese Version
+
+In Progress
+
+### OWASP Juice Shop
+
+In Progress
+
+Volunteers are welcomed to join us via our facebook group https://www.facebook.com/groups/owasptaiwan
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
