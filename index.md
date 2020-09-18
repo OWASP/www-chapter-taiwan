@@ -7,6 +7,8 @@ region: Asia
 
 ---
 
+<img src="/assets/images/18589086_10208752754688025_734373521347515640_o.jpg>
+
 ## Welcome
 Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a>. Follow Chapter news on Facebook Group. Welcome to join us. (https://www.facebook.com/groups/owasptaiwan) 
 
