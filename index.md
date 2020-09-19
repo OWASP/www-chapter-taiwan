@@ -1,4 +1,13 @@
+---
 
+layout: col-sidebar
+title: OWASP Taiwan
+tags: OWASP Taiwan
+level: 0
+region: Asia
+country: Taiwan
+
+---
 
 ## Welcome
 Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a>. Follow Chapter news on Facebook Group. Welcome to join us. (https://www.facebook.com/groups/owasptaiwan) 
