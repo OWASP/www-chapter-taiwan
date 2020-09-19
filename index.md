@@ -1,11 +1,9 @@
 ---
+
 layout: col-sidebar
 title: OWASP Taiwan
-tags: OWASP Taiwan
-level: 0
+tags: Taiwan
 region: Asia
-country: Taiwan
-postal-code: 
 
 ---
 
@@ -14,21 +12,20 @@ Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yil
 
 歡迎來到 OWASP 台灣分會網頁，目前台灣分會由 <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a> 共同推動在地運作。想要掌握與知道最新的訊息，歡迎加入 Facebook 的社群。(https://www.facebook.com/groups/owasptaiwan) 
 
-## Current Translation Projects
+## Events
+台灣分會致力於 OWASP 重要研成果推廣，不定期辦理 OWASP 社群聚會，透過交流活動以及辦理研討會，提供台灣對於 OWASP 國際資安組織發展有興趣者，能夠瞭解與掌握 OWASP 所推動之全球重點議題，想知道更多的活動訊息，請加入 OWASP Taiwan Chapter Meetup - https://www.meetup.com/Taipei-OWASP-Meetup-Group/
 
-### OWASP MASVS Traditional Chinese Version
+### 2020
+4-30 OWASP Flash Talk in Air
 
-https://github.com/OWASP/owasp-masvs/tree/master/Document-zhtw
+### 2019
+5-28 OWASP TechDay Taiwan 2019
 
-### OWASP MSTG Traditional Chinese Version
+### 2018
+7-12 OWASP Taiwan Day 2018
 
-In Progress
-
-### OWASP Juice Shop
-
-In Progress
-
-Volunteers are welcomed to join us via our facebook group https://www.facebook.com/groups/owasptaiwan
+### 2017
+7-11 OWASP Taiwan Day 2017
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
