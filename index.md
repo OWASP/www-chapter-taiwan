@@ -12,10 +12,9 @@ postal-code:
 <img src="/assets/images/OWASPTaiwan.jpg" alt="OWASP Taiwan Logo">
 
 ## Welcome
-Welcome to the Taiwan Chapter homepage. The Chapter Leaders are <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a>. Follow Chapter news on Facebook Group. Welcome to join us. (https://www.facebook.com/groups/owasptaiwan) 
+Welcome to the Taiwan Chapter homepage. The Chapter Leaders are <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a>. Follow Chapter news on <a href="https://www.facebook.com/groups/owasptaiwan">Facebook Group</a>. Come and join us!! 
 
-歡迎來到 OWASP 台灣分會網頁，目前台灣分會由 <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a> 共同推動在地運作。想要掌握與知道最新的訊息，歡迎加入 Facebook 的社群。(https://www.facebook.com/groups/owasptaiwan) 
-
+歡迎來到 OWASP 台灣分會網頁，目前台灣分會由 <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a> 共同推動在地運作。想要掌握與知道最新的訊息，歡迎加入 <a href="https://www.facebook.com/groups/owasptaiwan">Facebook OWASP Taiwan</a> 的社群。
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
