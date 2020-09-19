@@ -9,7 +9,7 @@ postal-code:
 
 ---
 
-<img src="/assets/images/web/OWASPTaiwan.jpg" alt="OWASP Taiwan Logo">
+<img src="/assets/images/OWASPTaiwan.jpg" alt="OWASP Taiwan Logo">
 
 ## Welcome
 Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a>. Follow Chapter news on Facebook Group. Welcome to join us. (https://www.facebook.com/groups/owasptaiwan) 
