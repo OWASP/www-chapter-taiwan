@@ -2,8 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Taiwan
-tags: OWASP Taiwan
-level: 0
 region: Asia
 country: Taiwan
 
