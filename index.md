@@ -5,6 +5,7 @@ tags: OWASP Taiwan
 level: 0
 region: Asia
 country: Taiwan
+meetup group: Taipei-OWASP-Meetup-Group
 postal-code: 
 
 ---
