@@ -6,8 +6,9 @@ tab: true
 order: 2
 tags: Taiwan
 altfooter: true
-meetup-group: OWASP-Taiwan-Chapter
+meetup-group: Taipei-OWASP-Meetup-Group
 country: Taiwan
+
 ---
 
 ## Meetup
