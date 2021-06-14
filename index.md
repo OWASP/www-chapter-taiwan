@@ -16,6 +16,14 @@ Welcome to the Taiwan Chapter homepage. The Chapter Leaders are <a href="mailto:
 
 歡迎來到 OWASP 台灣分會網頁，目前台灣分會由 <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a> 共同推動在地運作。想要掌握與知道最新的訊息，歡迎加入 <a href="https://www.facebook.com/groups/owasptaiwan">Facebook OWASP Taiwan</a> 的社群。
 
+### Upcoming Meetings
+
+We schedule our meetings on the [TBA Meetup Group](https://www.meetup.com/TBA/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
