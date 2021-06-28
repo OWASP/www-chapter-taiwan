@@ -18,7 +18,7 @@ Welcome to the Taiwan Chapter homepage. The Chapter Leaders are <a href="mailto:
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [TBA Meetup Group](https://www.meetup.com/TBA/)
+We schedule our meetings on the [OWASP Taiwan Chapter Meetup Group](https://www.meetup.com/Taipei-OWASP-Meetup-Group/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
