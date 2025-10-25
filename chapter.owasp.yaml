@@ -1,0 +1,30 @@
+community:
+  - name: chapter-taiwan
+    platform: slack
+    url: https://owasp.slack.com/archives/CA9B8U88J
+    description: OWASP Taiwan Chapter
+leaders:
+  - name: Henry Hu
+    email: henry.hu@owasp.org
+    github: ninedter
+  - name: Yi-Lang Tsai
+    email: yilang.tsai@owasp.org
+    github: yilangtsai
+location:
+  country: Taiwan
+  country_code: TW
+  region: Taipei City
+  city: Taipei
+  latitude: 23.5983227
+  longitude: 120.83537694479215
+meetup_group: Taipei-OWASP-Meetup-Group
+name: OWASP Taiwan
+repositories:
+  - name: www-chapter-taiwan
+    url: https://github.com/OWASP/www-chapter-taiwan
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Taiwan
+  - custom-tag-1
+website: https://owasp.org/www-chapter-taiwan
